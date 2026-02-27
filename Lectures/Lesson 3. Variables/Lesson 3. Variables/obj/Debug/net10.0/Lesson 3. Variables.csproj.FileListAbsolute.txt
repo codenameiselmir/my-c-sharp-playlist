@@ -1,0 +1,15 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\bin\Debug\net10.0\Lesson 3. Variables.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\bin\Debug\net10.0\Lesson 3. Variables.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\bin\Debug\net10.0\Lesson 3. Variables.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\bin\Debug\net10.0\Lesson 3. Variables.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\bin\Debug\net10.0\Lesson 3. Variables.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\obj\Debug\net10.0\Lesson 3. Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\obj\Debug\net10.0\Lesson 3. Variables.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\obj\Debug\net10.0\Lesson 3. Variables.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\obj\Debug\net10.0\Lesson 3. Variables.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\obj\Debug\net10.0\Lesson 3. Variables.sourcelink.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\obj\Debug\net10.0\Lesson 3. Variables.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\obj\Debug\net10.0\refint\Lesson 3. Variables.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\obj\Debug\net10.0\Lesson 3. Variables.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\obj\Debug\net10.0\Lesson 3. Variables.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 3. Variables\Lesson 3. Variables\obj\Debug\net10.0\ref\Lesson 3. Variables.dll

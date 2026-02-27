@@ -1,0 +1,15 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\bin\Debug\net10.0\Lesson 8. Random Class.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\bin\Debug\net10.0\Lesson 8. Random Class.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\bin\Debug\net10.0\Lesson 8. Random Class.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\bin\Debug\net10.0\Lesson 8. Random Class.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\bin\Debug\net10.0\Lesson 8. Random Class.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\obj\Debug\net10.0\Lesson 8. Random Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\obj\Debug\net10.0\Lesson 8. Random Class.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\obj\Debug\net10.0\Lesson 8. Random Class.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\obj\Debug\net10.0\Lesson 8. Random Class.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\obj\Debug\net10.0\Lesson 8. Random Class.sourcelink.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\obj\Debug\net10.0\Lesson 8. Random Class.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\obj\Debug\net10.0\refint\Lesson 8. Random Class.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\obj\Debug\net10.0\Lesson 8. Random Class.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\obj\Debug\net10.0\Lesson 8. Random Class.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 8. Random Class\Lesson 8. Random Class\obj\Debug\net10.0\ref\Lesson 8. Random Class.dll

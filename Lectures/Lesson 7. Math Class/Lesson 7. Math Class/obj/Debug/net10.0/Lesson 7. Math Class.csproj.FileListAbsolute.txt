@@ -1,0 +1,15 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\bin\Debug\net10.0\Lesson 7. Math Class.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\bin\Debug\net10.0\Lesson 7. Math Class.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\bin\Debug\net10.0\Lesson 7. Math Class.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\bin\Debug\net10.0\Lesson 7. Math Class.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\bin\Debug\net10.0\Lesson 7. Math Class.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\obj\Debug\net10.0\Lesson 7. Math Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\obj\Debug\net10.0\Lesson 7. Math Class.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\obj\Debug\net10.0\Lesson 7. Math Class.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\obj\Debug\net10.0\Lesson 7. Math Class.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\obj\Debug\net10.0\Lesson 7. Math Class.sourcelink.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\obj\Debug\net10.0\Lesson 7. Math Class.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\obj\Debug\net10.0\refint\Lesson 7. Math Class.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\obj\Debug\net10.0\Lesson 7. Math Class.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\obj\Debug\net10.0\Lesson 7. Math Class.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\Lectures\Lesson 7. Math Class\Lesson 7. Math Class\obj\Debug\net10.0\ref\Lesson 7. Math Class.dll
