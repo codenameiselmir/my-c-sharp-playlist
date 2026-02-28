@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coden\\Desktop\\my-c-sharp-playlist\\Lectures\\Lesson 9. Pythagoras Calculator Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D19AACA-2E67-47B9-B45C-B2A5FCDE2B35}|Lesson 9. Pythagoras Calculator Program\\Lesson 9. Pythagoras Calculator Program.csproj|c:\\users\\coden\\desktop\\my-c-sharp-playlist\\lectures\\lesson 9. pythagoras calculator program\\lesson 9. pythagoras calculator program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D19AACA-2E67-47B9-B45C-B2A5FCDE2B35}|Lesson 9. Pythagoras Calculator Program\\Lesson 9. Pythagoras Calculator Program.csproj|solutionrelative:lesson 9. pythagoras calculator program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coden\\Desktop\\my-c-sharp-playlist\\Lectures\\Lesson 9. Pythagoras Calculator Program\\Lesson 9. Pythagoras Calculator Program\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson 9. Pythagoras Calculator Program\\Program.cs",
+              "ToolTip": "C:\\Users\\coden\\Desktop\\my-c-sharp-playlist\\Lectures\\Lesson 9. Pythagoras Calculator Program\\Lesson 9. Pythagoras Calculator Program\\Program.cs",
+              "RelativeToolTip": "Lesson 9. Pythagoras Calculator Program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:00:51.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
