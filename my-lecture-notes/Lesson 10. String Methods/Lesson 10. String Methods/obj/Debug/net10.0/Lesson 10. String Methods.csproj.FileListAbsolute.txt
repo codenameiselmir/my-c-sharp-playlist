@@ -1,0 +1,15 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\bin\Debug\net10.0\Lesson 10. String Methods.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\bin\Debug\net10.0\Lesson 10. String Methods.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\bin\Debug\net10.0\Lesson 10. String Methods.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\bin\Debug\net10.0\Lesson 10. String Methods.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\bin\Debug\net10.0\Lesson 10. String Methods.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\obj\Debug\net10.0\Lesson 10. String Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\obj\Debug\net10.0\Lesson 10. String Methods.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\obj\Debug\net10.0\Lesson 10. String Methods.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\obj\Debug\net10.0\Lesson 10. String Methods.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\obj\Debug\net10.0\Lesson 10. String Methods.sourcelink.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\obj\Debug\net10.0\Lesson 10. String Methods.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\obj\Debug\net10.0\refint\Lesson 10. String Methods.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\obj\Debug\net10.0\Lesson 10. String Methods.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\obj\Debug\net10.0\Lesson 10. String Methods.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 10. String Methods\Lesson 10. String Methods\obj\Debug\net10.0\ref\Lesson 10. String Methods.dll
