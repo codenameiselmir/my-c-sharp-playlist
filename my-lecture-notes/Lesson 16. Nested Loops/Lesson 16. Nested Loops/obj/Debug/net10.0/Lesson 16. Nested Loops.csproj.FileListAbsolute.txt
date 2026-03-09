@@ -1,0 +1,15 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\bin\Debug\net10.0\Lesson 16. Nested Loops.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\bin\Debug\net10.0\Lesson 16. Nested Loops.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\bin\Debug\net10.0\Lesson 16. Nested Loops.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\bin\Debug\net10.0\Lesson 16. Nested Loops.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\bin\Debug\net10.0\Lesson 16. Nested Loops.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\obj\Debug\net10.0\Lesson 16. Nested Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\obj\Debug\net10.0\Lesson 16. Nested Loops.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\obj\Debug\net10.0\Lesson 16. Nested Loops.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\obj\Debug\net10.0\Lesson 16. Nested Loops.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\obj\Debug\net10.0\Lesson 16. Nested Loops.sourcelink.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\obj\Debug\net10.0\Lesson 16. Nested Loops.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\obj\Debug\net10.0\refint\Lesson 16. Nested Loops.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\obj\Debug\net10.0\Lesson 16. Nested Loops.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\obj\Debug\net10.0\Lesson 16. Nested Loops.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 16. Nested Loops\Lesson 16. Nested Loops\obj\Debug\net10.0\ref\Lesson 16. Nested Loops.dll

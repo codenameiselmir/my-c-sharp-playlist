@@ -1,0 +1,15 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\bin\Debug\net10.0\Lesson 18. Arrays.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\bin\Debug\net10.0\Lesson 18. Arrays.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\bin\Debug\net10.0\Lesson 18. Arrays.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\bin\Debug\net10.0\Lesson 18. Arrays.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\bin\Debug\net10.0\Lesson 18. Arrays.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\obj\Debug\net10.0\Lesson 18. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\obj\Debug\net10.0\Lesson 18. Arrays.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\obj\Debug\net10.0\Lesson 18. Arrays.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\obj\Debug\net10.0\Lesson 18. Arrays.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\obj\Debug\net10.0\Lesson 18. Arrays.sourcelink.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\obj\Debug\net10.0\Lesson 18. Arrays.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\obj\Debug\net10.0\refint\Lesson 18. Arrays.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\obj\Debug\net10.0\Lesson 18. Arrays.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\obj\Debug\net10.0\Lesson 18. Arrays.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\Lesson 18. Arrays\Lesson 18. Arrays\obj\Debug\net10.0\ref\Lesson 18. Arrays.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lesson 18. Arrays/1.0.0": {
+        "runtime": {
+          "Lesson 18. Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson 18. Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
