@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\bin\Debug\net10.0\06. Arithmetic Operators.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\bin\Debug\net10.0\06. Arithmetic Operators.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\bin\Debug\net10.0\06. Arithmetic Operators.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\bin\Debug\net10.0\06. Arithmetic Operators.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\bin\Debug\net10.0\06. Arithmetic Operators.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\obj\Debug\net10.0\06. Arithmetic Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\obj\Debug\net10.0\06. Arithmetic Operators.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\obj\Debug\net10.0\06. Arithmetic Operators.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\obj\Debug\net10.0\06. Arithmetic Operators.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\obj\Debug\net10.0\06. Arithmetic Operators.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\obj\Debug\net10.0\refint\06. Arithmetic Operators.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\obj\Debug\net10.0\06. Arithmetic Operators.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\obj\Debug\net10.0\06. Arithmetic Operators.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\06. Arithmetic Operators\06. Arithmetic Operators\obj\Debug\net10.0\ref\06. Arithmetic Operators.dll
