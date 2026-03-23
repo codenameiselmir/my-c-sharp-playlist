@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\bin\Debug\net10.0\08. Random Class.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\bin\Debug\net10.0\08. Random Class.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\bin\Debug\net10.0\08. Random Class.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\bin\Debug\net10.0\08. Random Class.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\bin\Debug\net10.0\08. Random Class.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\obj\Debug\net10.0\08. Random Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\obj\Debug\net10.0\08. Random Class.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\obj\Debug\net10.0\08. Random Class.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\obj\Debug\net10.0\08. Random Class.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\obj\Debug\net10.0\08. Random Class.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\obj\Debug\net10.0\refint\08. Random Class.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\obj\Debug\net10.0\08. Random Class.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\obj\Debug\net10.0\08. Random Class.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\08. Random Class\08. Random Class\obj\Debug\net10.0\ref\08. Random Class.dll
