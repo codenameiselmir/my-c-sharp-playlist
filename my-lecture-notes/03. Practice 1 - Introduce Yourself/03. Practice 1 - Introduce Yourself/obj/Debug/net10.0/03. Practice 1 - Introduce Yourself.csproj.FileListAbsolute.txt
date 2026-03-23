@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\bin\Debug\net10.0\03. Practice 1 - Introduce Yourself.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\bin\Debug\net10.0\03. Practice 1 - Introduce Yourself.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\bin\Debug\net10.0\03. Practice 1 - Introduce Yourself.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\bin\Debug\net10.0\03. Practice 1 - Introduce Yourself.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\bin\Debug\net10.0\03. Practice 1 - Introduce Yourself.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\obj\Debug\net10.0\03. Practice 1 - Introduce Yourself.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\obj\Debug\net10.0\03. Practice 1 - Introduce Yourself.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\obj\Debug\net10.0\03. Practice 1 - Introduce Yourself.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\obj\Debug\net10.0\03. Practice 1 - Introduce Yourself.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\obj\Debug\net10.0\03. Practice 1 - Introduce Yourself.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\obj\Debug\net10.0\refint\03. Practice 1 - Introduce Yourself.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\obj\Debug\net10.0\03. Practice 1 - Introduce Yourself.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\obj\Debug\net10.0\03. Practice 1 - Introduce Yourself.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\03. Practice 1 - Introduce Yourself\03. Practice 1 - Introduce Yourself\obj\Debug\net10.0\ref\03. Practice 1 - Introduce Yourself.dll
