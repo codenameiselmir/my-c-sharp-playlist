@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "09. Practice 3 - Pythagoras Calculator/1.0.0": {
+        "runtime": {
+          "09. Practice 3 - Pythagoras Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "09. Practice 3 - Pythagoras Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

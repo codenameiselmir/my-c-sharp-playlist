@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\bin\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\bin\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\bin\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\bin\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\bin\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\obj\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\obj\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\obj\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\obj\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\obj\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\obj\Debug\net10.0\refint\09. Practice 3 - Pythagoras Calculator.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\obj\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\obj\Debug\net10.0\09. Practice 3 - Pythagoras Calculator.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\09. Practice 3 - Pythagoras Calculator\obj\Debug\net10.0\ref\09. Practice 3 - Pythagoras Calculator.dll
