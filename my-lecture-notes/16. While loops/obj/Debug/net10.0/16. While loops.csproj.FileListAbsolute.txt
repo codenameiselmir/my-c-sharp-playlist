@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\bin\Debug\net10.0\16. While loops.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\bin\Debug\net10.0\16. While loops.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\bin\Debug\net10.0\16. While loops.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\bin\Debug\net10.0\16. While loops.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\bin\Debug\net10.0\16. While loops.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\obj\Debug\net10.0\16. While loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\obj\Debug\net10.0\16. While loops.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\obj\Debug\net10.0\16. While loops.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\obj\Debug\net10.0\16. While loops.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\obj\Debug\net10.0\16. While loops.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\obj\Debug\net10.0\refint\16. While loops.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\obj\Debug\net10.0\16. While loops.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\obj\Debug\net10.0\16. While loops.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\16. While loops\obj\Debug\net10.0\ref\16. While loops.dll
