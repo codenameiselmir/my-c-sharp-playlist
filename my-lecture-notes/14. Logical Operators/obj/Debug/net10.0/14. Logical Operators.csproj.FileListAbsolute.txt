@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\bin\Debug\net10.0\14. Logical Operators.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\bin\Debug\net10.0\14. Logical Operators.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\bin\Debug\net10.0\14. Logical Operators.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\bin\Debug\net10.0\14. Logical Operators.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\bin\Debug\net10.0\14. Logical Operators.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\obj\Debug\net10.0\14. Logical Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\obj\Debug\net10.0\14. Logical Operators.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\obj\Debug\net10.0\14. Logical Operators.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\obj\Debug\net10.0\14. Logical Operators.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\obj\Debug\net10.0\14. Logical Operators.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\obj\Debug\net10.0\refint\14. Logical Operators.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\obj\Debug\net10.0\14. Logical Operators.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\obj\Debug\net10.0\14. Logical Operators.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\14. Logical Operators\obj\Debug\net10.0\ref\14. Logical Operators.dll
