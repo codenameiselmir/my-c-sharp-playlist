@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\bin\Debug\net10.0\12. If and Else.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\bin\Debug\net10.0\12. If and Else.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\bin\Debug\net10.0\12. If and Else.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\bin\Debug\net10.0\12. If and Else.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\bin\Debug\net10.0\12. If and Else.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\obj\Debug\net10.0\12. If and Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\obj\Debug\net10.0\12. If and Else.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\obj\Debug\net10.0\12. If and Else.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\obj\Debug\net10.0\12. If and Else.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\obj\Debug\net10.0\12. If and Else.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\obj\Debug\net10.0\refint\12. If and Else.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\obj\Debug\net10.0\12. If and Else.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\obj\Debug\net10.0\12. If and Else.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\12. If and Else\obj\Debug\net10.0\ref\12. If and Else.dll
