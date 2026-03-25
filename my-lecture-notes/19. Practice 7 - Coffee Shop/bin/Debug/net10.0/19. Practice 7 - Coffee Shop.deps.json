@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "19. Practice 7 - Coffee Shop/1.0.0": {
+        "runtime": {
+          "19. Practice 7 - Coffee Shop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "19. Practice 7 - Coffee Shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
