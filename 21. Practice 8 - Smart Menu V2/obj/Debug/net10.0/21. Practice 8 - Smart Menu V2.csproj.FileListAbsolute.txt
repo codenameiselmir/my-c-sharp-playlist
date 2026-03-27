@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\bin\Debug\net10.0\21. Practice 8 - Smart Menu V2.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\bin\Debug\net10.0\21. Practice 8 - Smart Menu V2.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\bin\Debug\net10.0\21. Practice 8 - Smart Menu V2.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\bin\Debug\net10.0\21. Practice 8 - Smart Menu V2.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\bin\Debug\net10.0\21. Practice 8 - Smart Menu V2.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\obj\Debug\net10.0\21. Practice 8 - Smart Menu V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\obj\Debug\net10.0\21. Practice 8 - Smart Menu V2.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\obj\Debug\net10.0\21. Practice 8 - Smart Menu V2.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\obj\Debug\net10.0\21. Practice 8 - Smart Menu V2.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\obj\Debug\net10.0\21. Practice 8 - Smart Menu V2.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\obj\Debug\net10.0\refint\21. Practice 8 - Smart Menu V2.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\obj\Debug\net10.0\21. Practice 8 - Smart Menu V2.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\obj\Debug\net10.0\21. Practice 8 - Smart Menu V2.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Smart Menu V2\obj\Debug\net10.0\ref\21. Practice 8 - Smart Menu V2.dll

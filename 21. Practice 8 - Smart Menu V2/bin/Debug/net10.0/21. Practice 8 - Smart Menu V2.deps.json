@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "21. Practice 8 - Smart Menu V2/1.0.0": {
+        "runtime": {
+          "21. Practice 8 - Smart Menu V2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "21. Practice 8 - Smart Menu V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
