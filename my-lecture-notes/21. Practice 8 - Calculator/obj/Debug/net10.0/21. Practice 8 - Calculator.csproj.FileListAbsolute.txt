@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\bin\Debug\net10.0\21. Practice 8 - Calculator.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\bin\Debug\net10.0\21. Practice 8 - Calculator.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\bin\Debug\net10.0\21. Practice 8 - Calculator.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\bin\Debug\net10.0\21. Practice 8 - Calculator.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\bin\Debug\net10.0\21. Practice 8 - Calculator.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\obj\Debug\net10.0\21. Practice 8 - Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\obj\Debug\net10.0\21. Practice 8 - Calculator.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\obj\Debug\net10.0\21. Practice 8 - Calculator.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\obj\Debug\net10.0\21. Practice 8 - Calculator.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\obj\Debug\net10.0\21. Practice 8 - Calculator.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\obj\Debug\net10.0\refint\21. Practice 8 - Calculator.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\obj\Debug\net10.0\21. Practice 8 - Calculator.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\obj\Debug\net10.0\21. Practice 8 - Calculator.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\21. Practice 8 - Calculator\obj\Debug\net10.0\ref\21. Practice 8 - Calculator.dll
