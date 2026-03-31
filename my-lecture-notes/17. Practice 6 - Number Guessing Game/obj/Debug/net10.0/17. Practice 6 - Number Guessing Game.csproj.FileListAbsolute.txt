@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\bin\Debug\net10.0\17. Practice 6 - Number Guessing Game.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\bin\Debug\net10.0\17. Practice 6 - Number Guessing Game.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\bin\Debug\net10.0\17. Practice 6 - Number Guessing Game.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\bin\Debug\net10.0\17. Practice 6 - Number Guessing Game.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\bin\Debug\net10.0\17. Practice 6 - Number Guessing Game.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\obj\Debug\net10.0\17. Practice 6 - Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\obj\Debug\net10.0\17. Practice 6 - Number Guessing Game.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\obj\Debug\net10.0\17. Practice 6 - Number Guessing Game.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\obj\Debug\net10.0\17. Practice 6 - Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\obj\Debug\net10.0\17. Practice 6 - Number Guessing Game.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\obj\Debug\net10.0\refint\17. Practice 6 - Number Guessing Game.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\obj\Debug\net10.0\17. Practice 6 - Number Guessing Game.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\obj\Debug\net10.0\17. Practice 6 - Number Guessing Game.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\17. Practice 6 - Number Guessing Game\obj\Debug\net10.0\ref\17. Practice 6 - Number Guessing Game.dll
