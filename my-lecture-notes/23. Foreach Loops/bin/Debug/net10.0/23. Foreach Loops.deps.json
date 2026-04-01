@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "23. Foreach Loops/1.0.0": {
+        "runtime": {
+          "23. Foreach Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23. Foreach Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
