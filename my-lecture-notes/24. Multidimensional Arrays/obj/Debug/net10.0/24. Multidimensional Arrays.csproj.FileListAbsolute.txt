@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\bin\Debug\net10.0\24. Multidimensional Arrays.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\bin\Debug\net10.0\24. Multidimensional Arrays.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\bin\Debug\net10.0\24. Multidimensional Arrays.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\bin\Debug\net10.0\24. Multidimensional Arrays.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\bin\Debug\net10.0\24. Multidimensional Arrays.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\obj\Debug\net10.0\24. Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\obj\Debug\net10.0\24. Multidimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\obj\Debug\net10.0\24. Multidimensional Arrays.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\obj\Debug\net10.0\24. Multidimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\obj\Debug\net10.0\24. Multidimensional Arrays.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\obj\Debug\net10.0\refint\24. Multidimensional Arrays.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\obj\Debug\net10.0\24. Multidimensional Arrays.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\obj\Debug\net10.0\24. Multidimensional Arrays.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\24. Multidimensional Arrays\obj\Debug\net10.0\ref\24. Multidimensional Arrays.dll
