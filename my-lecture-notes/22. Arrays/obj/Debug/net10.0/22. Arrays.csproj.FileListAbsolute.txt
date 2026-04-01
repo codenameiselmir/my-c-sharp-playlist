@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\bin\Debug\net10.0\22. Arrays.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\bin\Debug\net10.0\22. Arrays.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\bin\Debug\net10.0\22. Arrays.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\bin\Debug\net10.0\22. Arrays.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\bin\Debug\net10.0\22. Arrays.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\obj\Debug\net10.0\22. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\obj\Debug\net10.0\22. Arrays.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\obj\Debug\net10.0\22. Arrays.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\obj\Debug\net10.0\22. Arrays.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\obj\Debug\net10.0\22. Arrays.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\obj\Debug\net10.0\refint\22. Arrays.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\obj\Debug\net10.0\22. Arrays.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\obj\Debug\net10.0\22. Arrays.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\22. Arrays\obj\Debug\net10.0\ref\22. Arrays.dll
