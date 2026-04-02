@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\bin\Debug\net10.0\25. Practice 9 - Student Grading System.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\bin\Debug\net10.0\25. Practice 9 - Student Grading System.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\bin\Debug\net10.0\25. Practice 9 - Student Grading System.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\bin\Debug\net10.0\25. Practice 9 - Student Grading System.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\bin\Debug\net10.0\25. Practice 9 - Student Grading System.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\obj\Debug\net10.0\25. Practice 9 - Student Grading System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\obj\Debug\net10.0\25. Practice 9 - Student Grading System.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\obj\Debug\net10.0\25. Practice 9 - Student Grading System.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\obj\Debug\net10.0\25. Practice 9 - Student Grading System.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\obj\Debug\net10.0\25. Practice 9 - Student Grading System.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\obj\Debug\net10.0\refint\25. Practice 9 - Student Grading System.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\obj\Debug\net10.0\25. Practice 9 - Student Grading System.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\obj\Debug\net10.0\25. Practice 9 - Student Grading System.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\25. Practice 9 - Student Grading System\obj\Debug\net10.0\ref\25. Practice 9 - Student Grading System.dll
