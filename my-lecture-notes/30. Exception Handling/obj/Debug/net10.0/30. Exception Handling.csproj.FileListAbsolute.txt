@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\bin\Debug\net10.0\30. Exception Handling.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\bin\Debug\net10.0\30. Exception Handling.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\bin\Debug\net10.0\30. Exception Handling.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\bin\Debug\net10.0\30. Exception Handling.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\bin\Debug\net10.0\30. Exception Handling.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\obj\Debug\net10.0\30. Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\obj\Debug\net10.0\30. Exception Handling.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\obj\Debug\net10.0\30. Exception Handling.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\obj\Debug\net10.0\30. Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\obj\Debug\net10.0\30. Exception Handling.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\obj\Debug\net10.0\refint\30. Exception Handling.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\obj\Debug\net10.0\30. Exception Handling.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\obj\Debug\net10.0\30. Exception Handling.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\30. Exception Handling\obj\Debug\net10.0\ref\30. Exception Handling.dll
