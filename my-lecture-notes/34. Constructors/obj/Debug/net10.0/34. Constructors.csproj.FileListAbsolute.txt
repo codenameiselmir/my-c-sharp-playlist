@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\bin\Debug\net10.0\34. Constructors.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\bin\Debug\net10.0\34. Constructors.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\bin\Debug\net10.0\34. Constructors.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\bin\Debug\net10.0\34. Constructors.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\bin\Debug\net10.0\34. Constructors.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\obj\Debug\net10.0\34. Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\obj\Debug\net10.0\34. Constructors.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\obj\Debug\net10.0\34. Constructors.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\obj\Debug\net10.0\34. Constructors.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\obj\Debug\net10.0\34. Constructors.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\obj\Debug\net10.0\refint\34. Constructors.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\obj\Debug\net10.0\34. Constructors.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\obj\Debug\net10.0\34. Constructors.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\34. Constructors\obj\Debug\net10.0\ref\34. Constructors.dll
