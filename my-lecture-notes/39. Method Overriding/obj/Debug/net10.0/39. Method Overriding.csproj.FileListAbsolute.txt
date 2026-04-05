@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\bin\Debug\net10.0\39. Method Overriding.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\bin\Debug\net10.0\39. Method Overriding.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\bin\Debug\net10.0\39. Method Overriding.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\bin\Debug\net10.0\39. Method Overriding.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\bin\Debug\net10.0\39. Method Overriding.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\obj\Debug\net10.0\39. Method Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\obj\Debug\net10.0\39. Method Overriding.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\obj\Debug\net10.0\39. Method Overriding.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\obj\Debug\net10.0\39. Method Overriding.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\obj\Debug\net10.0\39. Method Overriding.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\obj\Debug\net10.0\refint\39. Method Overriding.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\obj\Debug\net10.0\39. Method Overriding.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\obj\Debug\net10.0\39. Method Overriding.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\39. Method Overriding\obj\Debug\net10.0\ref\39. Method Overriding.dll

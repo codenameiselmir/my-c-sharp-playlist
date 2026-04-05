@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "39. Method Overriding/1.0.0": {
+        "runtime": {
+          "39. Method Overriding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "39. Method Overriding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
