@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\obj\Debug\net10.0\46. Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\obj\Debug\net10.0\46. Generics.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\obj\Debug\net10.0\46. Generics.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\obj\Debug\net10.0\46. Generics.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\bin\Debug\net10.0\46. Generics.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\bin\Debug\net10.0\46. Generics.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\bin\Debug\net10.0\46. Generics.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\bin\Debug\net10.0\46. Generics.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\bin\Debug\net10.0\46. Generics.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\obj\Debug\net10.0\46. Generics.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\obj\Debug\net10.0\refint\46. Generics.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\obj\Debug\net10.0\46. Generics.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\obj\Debug\net10.0\46. Generics.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\46. Generics\obj\Debug\net10.0\ref\46. Generics.dll
