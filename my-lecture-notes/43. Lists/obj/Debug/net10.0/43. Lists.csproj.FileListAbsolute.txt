@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\bin\Debug\net10.0\43. Lists.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\bin\Debug\net10.0\43. Lists.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\bin\Debug\net10.0\43. Lists.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\bin\Debug\net10.0\43. Lists.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\bin\Debug\net10.0\43. Lists.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\obj\Debug\net10.0\43. Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\obj\Debug\net10.0\43. Lists.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\obj\Debug\net10.0\43. Lists.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\obj\Debug\net10.0\43. Lists.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\obj\Debug\net10.0\43. Lists.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\obj\Debug\net10.0\refint\43. Lists.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\obj\Debug\net10.0\43. Lists.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\obj\Debug\net10.0\43. Lists.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\43. Lists\obj\Debug\net10.0\ref\43. Lists.dll
