@@ -1,0 +1,14 @@
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\bin\Debug\net10.0\47. Multithreading.exe
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\bin\Debug\net10.0\47. Multithreading.deps.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\bin\Debug\net10.0\47. Multithreading.runtimeconfig.json
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\bin\Debug\net10.0\47. Multithreading.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\bin\Debug\net10.0\47. Multithreading.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\obj\Debug\net10.0\47. Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\obj\Debug\net10.0\47. Multithreading.AssemblyInfoInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\obj\Debug\net10.0\47. Multithreading.AssemblyInfo.cs
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\obj\Debug\net10.0\47. Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\obj\Debug\net10.0\47. Multithreading.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\obj\Debug\net10.0\refint\47. Multithreading.dll
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\obj\Debug\net10.0\47. Multithreading.pdb
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\obj\Debug\net10.0\47. Multithreading.genruntimeconfig.cache
+C:\Users\coden\Desktop\my-c-sharp-playlist\my-lecture-notes\47. Multithreading\obj\Debug\net10.0\ref\47. Multithreading.dll
