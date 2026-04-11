@@ -1,1 +1,31 @@
-test
+Understanding NullReferenceException in C#
+
+To truly understand why a NullReferenceException occurs, we first need to look under the hood at how C# handles data in memory.
+In C#, data types are fundamentally divided into two main categories:
+
+1. Value Types : int, double, bool, char.
+
+Value types hold their data directly in memory. When you create a value type, 
+it always contains a value and cannot be empty.
+
+2. Reference Types : class, string, array, interface.
+
+Reference types do not store the actual data directly.
+they store a reference pointing to where the data is actually kept
+
+What is null?
+
+If you declare a variable of a Reference Type but you do not assign it a place in memory
+the default value of that variable is null. In programming, null means "nothingness" or "no object exists here."
+It essentially means your variable is acting as a blank address tag that isn't pointing to anything.
+
+The Anatomy of a NullReferenceException
+
+A NullReferenceException is thrown when you try to access a member (like a method, property, or field)
+of a reference type variable that is currently null.
+
+// 1. We create a reference variable named 'name', but we point it to nothing (null).
+string name = null;
+
+// 2. BOOM! A NullReferenceException is thrown exactly here.
+Console.WriteLine(name.Length);
