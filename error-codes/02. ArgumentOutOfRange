@@ -1,1 +1,12 @@
-test
+What is this ArgumentOutOfRangeException?
+
+In C#, methods generally operate by taking external parameters. These parameters typically have a logical "expected range".
+If the value you send to a method is outside the acceptable limits defined for that method to function, 
+the program stops executing and tells you: "I cannot work with this rgument you gave me,
+because it is out of my bounds!" This is exactly when an ArgumentOutOfRangeException is thrown.
+
+string word = "Yazılım"; // A 7-character word. Indexes range from 0 to 6.
+
+// The Substring method requires a starting index and the number of characters to retrieve.
+// We are telling it: "Start from the 10th index and bring me 2 characters."
+string part = word.Substring(10, 2);
