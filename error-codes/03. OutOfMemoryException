@@ -1,1 +1,12 @@
-test
+OutOfMemoryException indicates that the system does not have enough free memory to create an object or complete an operation.
+
+This error is usually related to the application hitting its own allocated memory limits or the fragmentation of the managed heap,
+rather than the computer running out of total RAM capacity.
+
+List<string> leakList = new List<string>();
+
+while(true)
+{
+    // A massive string is added in each iteration
+    leakList.Add(new string('A', 1000000)); 
+}
