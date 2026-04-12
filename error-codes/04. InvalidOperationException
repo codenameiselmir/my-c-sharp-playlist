@@ -1,1 +1,11 @@
-test
+InvalidOperationException is a runtime error thrown when the current state of an object is not suitable to execute the called method or operation. 
+The most critical word here is the concept of "state".
+
+InvalidOperationException gives your software the following message: "I know how to do
+what you are asking of me (the method is valid), there is no problem with the data you gave me
+either (the parameters are valid), but my current condition/state is not suitable to perform this task."
+
+int sayi = null;
+
+// WRONG USAGE: The system throws an InvalidOperationException here.
+int sonuc = sayi.Value;
