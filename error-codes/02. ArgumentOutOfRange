@@ -6,9 +6,18 @@ to do something that violates its physical or logical boundaries.
 ## The Analogy: The Magic Elevator Button
 
 Imagine you step into an elevator inside a 5-story building. You look at the control panel, and you see buttons for the following floors: -1, 0, 1, 2, 3, 4, and 5.
-This specific set of numbers represents the acceptable range of arguments for the elevator's internal computer. It knows exactly how to take you to any of these floors.
+This specific set of numbers represents the acceptable range of arguments for the elevator's internal computer. It knows exactly how to take you to any of these 
+floors. Now, imagine you pull out a marker, draw a "15" on the panel, magically wire it into the system, and press it. What happens?
+The elevator's system will instantly halt and reject your command. It cannot take you to the 15th floor because the building ends at floor 5. 
+The safety mechanism kicks in, effectively yelling: "I cannot accept this input; it is outside my defined limits!" In the software world, 
+this rejection is exactly what an ArgumentOutOfRangeException is.
 
-Now, imagine you pull out a marker, draw a "15" on the panel, magically wire it into the system, and press it. What happens?
+## Let's Look at the Code
 
-The elevator's system will instantly halt and reject your command. It cannot take you to the 15th floor because the building ends at floor 5. The safety mechanism kicks in, 
-effectively yelling: "I cannot accept this input; it is outside my defined limits!" In the software world, this rejection is exactly what an ArgumentOutOfRangeException is.
+// Let's create a 7-character word. 
+// In a zero-indexed language, the valid indexes are 0, 1, 2, 3, 4, 5, and 6.
+string word = "Project"; 
+
+// We are telling the program: "Go to index 10, and extract 2 characters for me."
+// CRASH! ArgumentOutOfRangeException is thrown right here.
+string part = word.Substring(10, 2);
