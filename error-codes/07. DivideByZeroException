@@ -1,1 +1,22 @@
-test
+Ever since our primary school math classes, we have all been taught one absolute rule: "A number cannot be divided by zero; it is undefined."
+Imagine you are holding 10 apples in your hands. I ask you to distribute them equally among 0 people. How many apples does each person get? 
+You can't answer that. You can't give apples to people who don't exist. The logic completely breaks down. The physical act of dividing something 
+into "zero groups" is impossible.
+
+C# stays entirely loyal to this mathematical rule. If you try to force the computer to divide a number by zero during runtime, the processor realizes 
+it cannot calculate the impossible. It immediately halts the program's flow, effectively shouting, "I cannot do this!" and throws a DivideByZeroException.
+
+## The Technical Reality
+
+At the hardware level, dividing an integer by zero triggers a fault directly in the CPU. The .NET runtime catches this hardware-level panic and wraps 
+it into a neat DivideByZeroException object for you to handle. If you do not handle it, your application will crash instantly.
+
+## Let's Look at the Code
+
+// SCENARIO 1: Integers (The exact moment the application crashes)
+int appleCount = 10;
+int personCount = 0;
+
+// BOOM! The program explodes right here.
+// The CPU refuses to calculate 10 / 0, so a DivideByZeroException is thrown!
+int applesPerPerson = appleCount / personCount;
