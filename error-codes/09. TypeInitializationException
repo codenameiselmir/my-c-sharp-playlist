@@ -1,1 +1,48 @@
-Test
+Imagine you are opening a brand-new, amazing pizza restaurant. In the restaurant business, there are two distinct phases of preparation:
+
+Phase 1: Prepping the Shop (Static Initialization)
+
+It is 6:00 AM. There are no customers yet. You arrive at the shop, flip the circuit breakers, turn on the lights, start heating the giant 
+pizza oven, and place the salt and pepper shakers on the tables. These are things that must be done exactly once, regardless of whether 
+you get 0 customers or 1,000 customers that day. The shop needs this setup to function. 
+
+Phase 2: Making the Pizza (Instance Initialization)
+
+It is 12:00 PM. A customer walks in and orders a Margherita. You spin the dough, add the sauce and cheese, and bake it specifically for them.
+In the C# world, this is calling a normal constructor (new Pizza()). You only do this when a specific object (customer) requires it.
+
+The Problem: What if, during Phase 1 at 6:00 AM, the giant pizza oven explodes?
+
+Can you open the doors? Can you take a customer's order? Can you make a pizza? Absolutely not. The shop failed to initialize. Before you could 
+even think about serving a customer (creating an instance), the entire system crashed. In C#, when the system says, "I broke something while 
+trying to boot up this class, we haven't even reached the object creation phase yet!" it throws a TypeInitializationException.
+
+## The Technical Reality
+
+In C#, classes can have Static Fields and Static Constructors. These belong to the class itself, not to any specific object. The .NET Runtime (CLR) 
+guarantees that static members are initialized exactly once, just before the class is used for the very first time. If your static constructor or 
+your inline static fields throw an exception (like dividing by zero, reading a missing configuration file, or a null reference), the runtime catches 
+that error. Because the class is now in a corrupted state and cannot be used safely, the runtime wraps the original error in a TypeInitializationException 
+and permanently locks down that class for the rest of the application's lifespan.
+
+## Let's Look at the Code
+
+class Exam 
+{
+    // PHASE 1 (Static Initialization): The "Morning Prep"
+    // The moment the program tries to load the 'Exam' class, it runs this line.
+    // It tries to divide 5 by 0. The oven explodes!
+    public static int ErrorValue = 5 / int.Parse("0"); 
+}
+
+class Program 
+{
+    static void Main() 
+    {
+        // PHASE 2: We try to interact with the shop.
+        // The CLR says: "Wait, I need to initialize the Exam class first!"
+        // *Explosion sounds*
+        // BOOM! A TypeInitializationException is thrown right here!
+        Console.WriteLine(Exam.ErrorValue); 
+    }
+}
