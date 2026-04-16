@@ -1,1 +1,54 @@
-Test
+Imagine you are walking down the street during a massive rainstorm. You see a giant umbrella. Written across the top of this 
+umbrella in huge letters is the word: "Math Problems." The umbrella itself isn't a person; it is just a shelter. If you look 
+underneath the umbrella, you will see three specific individuals hiding from the rain:
+
+1. The Apple Divider: A person trying to divide 10 apples among zero people.
+2. The Pizza Stuffer: A person trying to shove a massive, family-sized pizza into a tiny Tupperware container.
+3. The Broken Abacus: A shy person in the corner trying to physically count out "Infinity" on a wooden abacus.
+
+In C#, ArithmeticException is that giant umbrella. It is a broad, overarching category. You will very rarely see the system throw 
+a generic ArithmeticException. Instead, the system throws one of the specific "individuals" standing under the umbrella.
+
+## The Technical Reality
+
+In object-oriented programming, exceptions are classes that use Inheritance. ArithmeticException is a base class provided by the .NET 
+framework. Underneath it, there are three specific child exceptions that will actually crash your code: 
+
+- DivideByZeroException: Thrown when you try to divide an integer or decimal by zero.
+- OverflowException: Thrown when you try to cram a massive value into a data type that cannot physically hold it (like forcing an int into a byte).
+- NotFiniteNumberException (The Shy Sibling): Floating-point math (double or float) doesn't crash when divided by zero; it creates theoretical 
+  concepts like Infinity or NaN (Not a Number). This exception is thrown when you try to pass one of these theoretical concepts into a strict system 
+  (like a graphics engine) that absolutely requires a real, physical, measurable number to function.
+
+## Let's Look at the Code
+
+try 
+{
+    // A risky math operation based on user input
+    int result = PerformRiskyMathOperation();
+}
+catch (DivideByZeroException) 
+{
+    Console.WriteLine("Error: You cannot divide by zero!");
+}
+catch (OverflowException) 
+{
+    Console.WriteLine("Error: The number you entered is way too big!");
+}
+
+## Let's Look at the Code 2
+
+public void DrawLineOnScreen(double length)
+{
+    // The length might be 'Infinity' if a previous math calculation went weird.
+    // We cannot physically draw a line of infinite length on a monitor!
+    
+    if (double.IsInfinity(length) || double.IsNaN(length))
+    {
+        // We manually throw the exception because our drawing system 
+        // strictly requires a finite number to work.
+        throw new NotFiniteNumberException("The length must be a real, measurable number!", length);
+    }
+
+    Console.WriteLine($"Drawing a line of length: {length}");
+}
